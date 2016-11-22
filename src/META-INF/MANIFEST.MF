@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Created-By: 1.3.1_01 (Sun Microsystems Inc.)
+
+Name: net/spray/chat/normal/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Traxf7UF9QPQ1Jh/9myx+RHqEhw=
+MD5-Digest: TNjY9DONtQ0K8wykHINShQ==
+
+Name: net/spray/chat/normal/b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: q66Tf1uI1NevwGSFHHsfyiY0RhQ=
+MD5-Digest: lM2l5IZcdVAYKi708l4Yng==
+
+Name: net/spray/chat/normal/CaraNewChat.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: kpmIVjse0y1OtwmswdvOJbXL3kA=
+MD5-Digest: XDEr+7itc1ypjuLju0KGGg==
+
+Name: net/spray/chat/a/e.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LZ76AjaZeOa6++124UCFv2RdOgQ=
+MD5-Digest: 4amXRUf4AVNexnI3rmDhYg==
+
+Name: net/spray/chat/a/c.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: rg5Y8DyH5dwVh7A+P+78nIm48u0=
+MD5-Digest: bvUIreqOiKXFK6GT7JD36g==
+
+Name: net/spray/chat/a/h.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: dc3LaGjIaVXQeTf63X5cs0peLOg=
+MD5-Digest: 0bB89IjKC/NnMUm6SlQZHw==
+
+Name: net/spray/chat/a/j.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: pAElPs0dtUpPEQbLKsAUuAh/2PA=
+MD5-Digest: VsjG5wXXIJkbfbYAkyFADQ==
+
+Name: net/spray/chat/a/f.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: P3ilV6t62Ya9okNMrAZcEWUUc1I=
+MD5-Digest: cR9ZXLWSXp5kjKnhQ1edxg==
+
+Name: net/spray/chat/a/i.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: szj5Qfi7dgbspYd52bOM1tEy2N4=
+MD5-Digest: +ZGtI+caUp9QENzjC6crLw==
+
+Name: net/spray/chat/a/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: PeKLFSyrSumOgoyCtVxH6G4f+TI=
+MD5-Digest: 0LFv6nP9B0nlzHQmS5pFng==
+
+Name: net/spray/chat/a/b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: dcxCmvoNqA9A7ggqBdvo3Ma6RXo=
+MD5-Digest: heFMw7o24654MJT8pUBsSw==
+
+Name: net/spray/chat/a/g.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: zdL4ke+nnwmIFUA34vSB0R1QtCM=
+MD5-Digest: jaaqu8Z5GliEu14J814Y2A==
+
+Name: net/spray/chat/a/d.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /E02ggp0xPKaM3ErEPtKwX6t5pU=
+MD5-Digest: Mo72/4nUenG+3Qi+kzY4xA==
+
